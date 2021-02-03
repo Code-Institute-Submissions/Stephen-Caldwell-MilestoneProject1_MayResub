@@ -50,3 +50,35 @@ header{
   text-decoration: none;
   color:inherit;
 }
+
+
+footer{
+    background-image: linear-gradient(#45484f, #373a3f);
+    width: 100%;
+    color: #bcccdd;
+    height: 150px;
+    bottom: 0;
+    clear: both;
+}
+
+#contact{
+    width:9%;
+    margin: 0 auto;
+    float: left;
+    padding-top: 1%;
+}
+
+footer hr{
+    border-bottom: 1px solid #bcccdd;
+    padding-bottom: 1px;
+}
+
+#phone-number{
+    padding-top: 1px;
+}
+
+#googleMap{
+    height: inherit;
+    width:75px;
+    
+}

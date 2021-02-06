@@ -60,10 +60,7 @@ footer{
     width: 100%;
     color: #bcccdd;
     height: 175px;
-    position: fixed;
-    left: 0;
     bottom: 0;
-    width: 100%;
 }
 
 #contact{
@@ -118,4 +115,39 @@ table {
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+#special-offers{
+    margin-bottom: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+#special-offer-info{
+    background-image: linear-gradient(#45484f, #373a3f);
+    color: #bcccdd;
+}
+
+#special-offer-info a{
+    font-size: smaller;
+    text-decoration: none;
+    color:#bcccdd;
 }

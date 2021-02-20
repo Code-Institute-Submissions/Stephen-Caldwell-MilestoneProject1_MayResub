@@ -213,6 +213,10 @@ table {
         line-height:25px;
       }
 
+      header{
+          height: 125px;
+      }
+
       #map{
           width:40%;
       }

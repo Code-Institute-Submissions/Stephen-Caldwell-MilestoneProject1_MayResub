@@ -95,7 +95,7 @@ footer hr{
 
 #about-us p{
     text-align: justify;
-    padding-left: 25%;
+    margin: 0 auto;
     width:50%;
     margin-top:30px;
 }
@@ -213,11 +213,6 @@ table {
         line-height:25px;
       }
 
-      header{
-          height: 125px;
-          text-align: center;
-      }
-
       #map{
           width:40%;
       }
@@ -229,5 +224,16 @@ table {
       #provided-table{
           vertical-align: middle;
           font-size: small;
+      }
+
+    
+      #about-us p{
+          width:70%;
+          margin: 0 auto;
+          margin-top: 15px;
+      }
+
+      #about-us{
+          margin-top: 15px;
       }
 }

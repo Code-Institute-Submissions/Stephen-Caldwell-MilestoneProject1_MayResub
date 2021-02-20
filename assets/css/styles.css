@@ -221,4 +221,8 @@ table {
       #map{
           width:40%;
       }
+
+      #special-offer-card{
+          width:60%;
+      }
 }

@@ -217,4 +217,8 @@ table {
           height: 125px;
           text-align: center;
       }
+
+      #map{
+          width:40%;
+      }
 }

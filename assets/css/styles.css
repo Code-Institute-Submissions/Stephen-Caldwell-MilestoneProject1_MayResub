@@ -223,6 +223,11 @@ table {
       }
 
       #special-offer-card{
-          width:60%;
+          width:50%;
+      }
+
+      #provided-table{
+          vertical-align: middle;
+          font-size: small;
       }
 }

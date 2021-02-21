@@ -240,4 +240,13 @@ table {
       #about-us{
           margin-top: 15px;
       }
+
+      table img{
+        width: 80%;
+        height: auto;
+        min-width: 55px; 
+      }
+    .product-table td{
+        padding-left: 10px;
+    }
 }

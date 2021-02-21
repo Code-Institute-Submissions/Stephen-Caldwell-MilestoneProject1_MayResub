@@ -1,8 +1,7 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Milestone Project 1
 
-Welcome Stephen-Caldwell,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+I chose to update the website for my father's plumbing shop as my first Milestone Project. The current site is very outdated and needed a good bit of updating, it's very busy and isn't user friendly.
+I wanted to make the site more simple and easy to use. I also felt like it was a good way for me to build my confidence back up, having failed my college degree.
 
 ## Gitpod Reminders
 

@@ -11,6 +11,6 @@ The Home Page of the website is very minimal, it just has the navigation for the
 
 Above is a screenshot of the navigation and hero image. The image was taken directly from the original website which is currently being used and linked below.
 The navigation is based on what we learned in the course.
-The main colour scheme which you can see in the header is based on the shops logo.
+The main colour scheme which you can see in the header is based on the shops logo below.
 
 ![Logo](https://i.imgur.com/uTWZ3pE.jpg)

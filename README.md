@@ -6,9 +6,11 @@ I wanted to make the site more simple and easy to use. I also felt like it was a
 ## Home Page
 
 The Home Page of the website is very minimal, it just has the navigation for the site in the header, the hero image, any special offers, and a footer containing the contact details and the map.
-![Hero Image](https://i.imgur.com/8ActG1e.png).
+
+![Hero Image](https://i.imgur.com/8ActG1e.png)
 
 Above is a screenshot of the navigation and hero image. The image was taken directly from the original website which is currently being used and linked below.
 The navigation is based on what we learned in the course.
 The main colour scheme which you can see in the header is based on the shops logo.
-![Logo](https://i.imgur.com/uTWZ3pE.jpg).
+
+![Logo](https://i.imgur.com/uTWZ3pE.jpg)

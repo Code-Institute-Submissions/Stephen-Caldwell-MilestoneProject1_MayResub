@@ -265,10 +265,10 @@ footer hr{
     }
 
     #about-photos{
-        padding:10px;
+        margin: 0 auto;
         width:80%;
         height: auto;
         min-width: 55px;
-        display: inline-block;
+        column-count: 2;
     }
 }

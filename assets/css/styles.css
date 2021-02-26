@@ -271,4 +271,13 @@ footer hr{
         min-width: 55px;
         column-count: 2;
     }
+
+    .modal{
+        width:100%;
+        position: absolute;
+        left: 40%;
+        top: 40%; 
+        margin-left: -150px;
+        margin-top: -150px;
+    }
 }

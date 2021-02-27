@@ -22,3 +22,5 @@ For the special offer I just did a simple card for display the basic information
 
 ## About us
 The about us page has a paragraph about the company along with some images relating to them. It also has a list of some of the brands the the shop can source and who they use.
+
+![What we provide](https://i.imgur.com/10UCzWK.png)

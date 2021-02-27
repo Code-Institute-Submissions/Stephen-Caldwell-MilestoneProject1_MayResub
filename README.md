@@ -24,3 +24,8 @@ For the special offer I just did a simple card for display the basic information
 The about us page has a paragraph about the company along with some images relating to them. It also has a list of some of the brands the the shop can source and who they use.
 
 ![What we provide](https://i.imgur.com/10UCzWK.png)
+
+## Products
+I had some trouble designing this page and went through a few different ideas before landing on this one. It displays just a few of the products provided in just a few categories. I did have some trouble still with this and there is a gap on the right hand side but added another would make the rest look squished and re-positioning it messed with the responsiveness.
+
+![Products](https://i.imgur.com/jg17sVC.png) 

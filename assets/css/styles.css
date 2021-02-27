@@ -56,37 +56,7 @@ header{
 footer{
     background-image: linear-gradient(#45484f, #373a3f);
     color: #bcccdd;
-   
-}
-
-#contact{
-    margin: 0 auto;
-    float: left;
-    padding-top: 40px;
-    padding-left: 1%;
-}
-#aboutus-contact{
-    margin: 0 auto;
-    float: left;
-    padding-top: 10px;
-    padding-left: 1%; 
-}
-
-footer hr{
-    border-bottom: 1px solid #bcccdd;
-    padding-bottom: 1px;
-}
-
-#phone-number{
-    padding-top: 1px;
-}
-
-#map{
-    height: 95%;
-    width: 250px;
-    float: right;
-    padding-top: 3px;
-    padding-right: 1%;
+    height:50px;
 }
 
 #about-us,#provided{
@@ -107,7 +77,6 @@ footer hr{
 
 #provided{
     margin-top:30px;
-    margin-bottom: 50px;
 }
 
 #provided-table { 
@@ -204,6 +173,16 @@ footer hr{
 #about-photos img{
     height: 200px;
     width:100%
+}
+
+#about-us-img{
+    width:40%;
+    float: right;
+}
+
+.list-group{
+    width:33%;
+    float:left;
 }
 
 @media screen and (max-width:943px){

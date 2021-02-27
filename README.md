@@ -28,4 +28,11 @@ The about us page has a paragraph about the company along with some images relat
 ## Products
 I had some trouble designing this page and went through a few different ideas before landing on this one. It displays just a few of the products provided in just a few categories. I did have some trouble still with this and there is a gap on the right hand side but added another would make the rest look squished and re-positioning it messed with the responsiveness.
 
-![Products](https://i.imgur.com/jg17sVC.png) 
+![Products](https://i.imgur.com/jg17sVC.png)
+
+## Contact us
+This was originally in the footer but it looks better as it's own page. It is just the contact information and a simple form, along with a map showing exactly where the shop is.
+
+![Details](https://i.imgur.com/35YzIji.png)
+![Form](https://i.imgur.com/pWJCYXW.png)
+![Map](https://i.imgur.com/fho5BKo.png)

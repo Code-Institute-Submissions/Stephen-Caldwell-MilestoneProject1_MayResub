@@ -271,31 +271,27 @@ form, #contact-details{
       }
 
     
-      #about-us p{
+      #about-us p, #about-us h1, #about-us h3{
           width:70%;
           margin: 0 auto;
           margin-top: 15px;
+      }
+
+      #about-us-img{
+          display: none;
       }
 
       #about-us{
           margin-top: 15px;
       }
 
-      table img{
-        width: 80%;
-        height: auto;
-        min-width: 55px; 
-      }
-    .product-table td{
-        padding-left: 10px;
-    }
-
     #about-photos{
         margin: 0 auto;
-        width:80%;
-        height: auto;
+        width:95%;
+        height: 200px;
         min-width: 55px;
         column-count: 2;
+        overflow: scroll;
     }
 
     .modal{

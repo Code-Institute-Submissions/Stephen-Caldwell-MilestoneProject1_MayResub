@@ -230,6 +230,19 @@ header{
     padding-left:10px;
 }
 
+
+#full-name, #email,#phone{
+    width:25%;
+}
+
+#message{
+    width:25%;
+    height:75px;
+}
+form, #contact-details{
+    margin:10px;
+}
+
 @media screen and (max-width:943px){
    #menu{
         clear: left;

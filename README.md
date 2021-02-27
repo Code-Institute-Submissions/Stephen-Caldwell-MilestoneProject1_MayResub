@@ -14,3 +14,7 @@ The navigation is based on what we learned in the course.
 The main colour scheme which you can see in the header is based on the shops logo below.
 
 ![Logo](https://i.imgur.com/uTWZ3pE.jpg)
+
+### Special offer
+For the special offer I just did a simple card for display the basic information. When you click on the card it opens up a modal to display the full information.
+![Special Offer Card](https://i.imgur.com/86jSDjp.png) ![Special Offer Modal](https://i.imgur.com/lWTb6mL.png)

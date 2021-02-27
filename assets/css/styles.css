@@ -152,8 +152,49 @@ header{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-.product-table td{
-    padding-left: 100px;
+#bath-list{
+    margin-left:75px;
+}
+#bath-product{
+    background-image: url("https://i.imgur.com/Mg73mNI.jpg");
+    background-repeat: no-repeat;
+}
+#bath-product2{
+    background-image: url("https://i.imgur.com/0mgcTkc.jpg");
+    background-repeat: no-repeat;
+}
+#bath-product3{
+    background-image: url("https://i.imgur.com/IZ6qJa8.jpg");
+    background-repeat: no-repeat;
+}
+
+#suite-product{
+    background-image: url("https://i.imgur.com/ZTAn1Bv.jpg");
+    background-repeat: no-repeat;
+}
+#suite-product2{
+    background-image: url("https://i.imgur.com/lQm77ye.jpg");
+    background-repeat: no-repeat;
+}
+#suite-product3{
+    background-image: url("https://i.imgur.com/Tu6qVHG.jpg");
+    background-repeat: no-repeat;
+}
+
+#disability-product{
+    background-image: url("https://i.imgur.com/nUQ0YCf.jpg");
+    background-repeat: no-repeat;
+}
+#disability-product2{
+    background-image: url("https://i.imgur.com/EHRPJZr.jpg");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+}
+#disability-product3{
+    background-image: url("https://i.imgur.com/SV6eW7f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #about-photos{
@@ -176,6 +217,17 @@ header{
 .list-group{
     width:33%;
     float:left;
+}
+
+#baths h4, #showers h4{
+    padding-left: 10px;
+}
+
+#baths hr, #showers hr{
+    color:royalblue;
+    border-top: 2px solid;
+    width:15%; 
+    padding-left:10px;
 }
 
 @media screen and (max-width:943px){

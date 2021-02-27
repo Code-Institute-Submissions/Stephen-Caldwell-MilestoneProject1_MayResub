@@ -202,6 +202,7 @@ footer hr{
 }
 
 #about-photos img{
+    height: 200px;
     width:100%
 }
 

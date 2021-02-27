@@ -243,6 +243,7 @@ form, #contact-details{
     margin:10px;
 }
 
+
 @media screen and (max-width:943px){
    #menu{
         clear: left;
@@ -256,8 +257,8 @@ form, #contact-details{
           height: 125px;
       }
 
-      #map{
-          width:40%;
+      iframe{
+          width:100%;
       }
 
       #special-offer-card{
@@ -304,5 +305,14 @@ form, #contact-details{
         top: 40%; 
         margin-left: -150px;
         margin-top: -150px;
+    }
+
+    #full-name, #email,#phone{
+        width:80%;
+    }
+
+    #message{
+        width:80%;
+        height:75px;
     }
 }

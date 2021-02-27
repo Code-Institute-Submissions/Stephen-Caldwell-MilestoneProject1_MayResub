@@ -19,3 +19,6 @@ The main colour scheme which you can see in the header is based on the shops log
 For the special offer I just did a simple card for display the basic information. When you click on the card it opens up a modal to display the full information.
 
 ![Special Offer Card](https://i.imgur.com/86jSDjp.png) ![Special Offer Modal](https://i.imgur.com/lWTb6mL.png)
+
+## About us
+The about us page has a paragraph about the company along with some images relating to them. It also has a list of some of the brands the the shop can source and who they use.

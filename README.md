@@ -36,3 +36,20 @@ This was originally in the footer but it looks better as it's own page. It is ju
 ![Details](https://i.imgur.com/35YzIji.png)
 ![Form](https://i.imgur.com/pWJCYXW.png)
 ![Map](https://i.imgur.com/fho5BKo.png)
+
+## Eventual Features I would like to added
+I would like to add more to the products and home pages. 
+For the products I would like to display more products and then have more detail on the product when they are clicked on.
+On the home page I would like to add more special offers.
+
+## Credits
+I used code from the course for the navigation, responsiveness, gallery.
+I used W3schools for code I wasn't 100% on as well as Bootstrap examples and of course the odd Stack overflow.
+The content and a lot of the pictures were taken directly from the shops current website(http://www.theshowercentre.ie/.)
+
+## Deployment and testing
+I deployed the site using Github pages.
+The site was tested on different phones and laptops to check responsiveness and how the site worked.
+
+## Cloning and Deployment
+To clone the code to your own repository please select the code button above and follow the instructions to clone.

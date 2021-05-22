@@ -43,3 +43,21 @@ Please see the wireframe PDF in https://github.com/Stephen-Caldwell/MilestonePro
 - Google maps
     - Google maps was embedded into the site as an iframe to display the location
 
+## Deployment
+The site is deloyed on https://stephen-caldwell.github.io/MilestoneProject1/. To deploy the site I used GitHub pages.
+To do this I went to the settings tab and found the pages option on the menu on the left hand side. I deployed from the 'master branch', which mirrors the development version of the site.
+
+## Testing
+The results below are from manual testing.
+1. Navigation
+    1. All links in the navigation work correctly. The name of the business acts as a link to te home page.
+2. Special offer
+    1. The Special offer card is clickable and does successfully open the modal
+3. About us & products pages
+    1. No functionality on these pages but the content displays correctly and how I hoped it would.
+4. Contact us page
+    1. The map is displaying correctly and showing the correct location
+    2. The directions link in the map brings you directly to Google Maps for directions
+    3. There is no functionality in the contact form
+    4. All content displays correctly.
+    

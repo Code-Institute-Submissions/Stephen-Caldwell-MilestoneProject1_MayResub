@@ -60,4 +60,12 @@ The results below are from manual testing.
     2. The directions link in the map brings you directly to Google Maps for directions
     3. There is no functionality in the contact form
     4. All content displays correctly.
-    
+
+
+## Credits
+- All code was written by the author - Stephen Caldwell
+- To write the ReadMe I used:
+    - a project done by James Ahorne as a guide (https://github.com/jamesahorne/milestone-1)
+    - the feedback given on my first attempt at this project
+- Most of the imagery was taken from the businesses own website with permission of course(http://www.theshowercentre.ie/) any imagery not taken from the site are just free use stock photos.
+- Google maps fot the location

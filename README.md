@@ -23,4 +23,7 @@ See product cards in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/
 The contact us page gives the user a way to email the shop with any queries they have it also gives the address as well as an embedded Google map to show exactly where the shop is as well as directions in Google maps when the link is clicked.
 See address.PNG, location.PNG, and contact form.PNG in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/
 
+### Wireframes
+The wireframes were completed using Balsamiq, the orignal mockups were loosley followed and as the design shanged I changed the wireframes to be more accurate.
+Please see the wireframe PDF in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/wireframes
 

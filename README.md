@@ -14,3 +14,13 @@ See navigation & hero img.PNG, Special offers.PNG, and Special offer modal.PNG i
 The about us page gives the user a background into the business and the staff who work there, outlining experience and what is provided.
 There is an image gallery to show examples of what the user could have. There is also a list of some of the brands that are carried at the shop most of which are well known and trusted brands.
 See about us paragraph.PNG, brand list.PNG, and product gallery.PNG in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/
+
+### Product Page
+The product page gives the user an example of the types of products that the shop provides, displayed in a clear concise way.
+See product cards in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/
+
+### Contact us page
+The contact us page gives the user a way to email the shop with any queries they have it also gives the address as well as an embedded Google map to show exactly where the shop is as well as directions in Google maps when the link is clicked.
+See address.PNG, location.PNG, and contact form.PNG in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/
+
+

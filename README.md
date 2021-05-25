@@ -36,6 +36,20 @@ The images on the site are mostly taken from the original site to show actual pr
 The wireframes were completed using Balsamiq, the orignal mockups were loosley followed and as the design shanged I changed the wireframes to be more accurate.
 Please see the wireframe PDF in https://github.com/Stephen-Caldwell/MilestoneProject1/tree/master/Screenshots/wireframes
 
+## Features
+- Header - Displayed across all pages to allow user to navigate the website
+- Footer - Also displayed across all pages displaying the copyright
+- Responsiveness - All pages are responsiveness and the functionality remains on all devices
+### Pages
+- Landing/Home page
+    - Simple page showing the company logo that people know and the special offer which is clickable and opens up a modal displaying more information.
+- About us Page
+    - Descriptive page with a paragraph aboiut the company and list of the most well known brands
+- Products page
+    - Simple design to just display an example of the products sold by the shop.
+- Contact us page
+    -   Displays the address, a map with the location that can link out to Google maps, and also an email form which will send an email to the shop.
+
 ## Technologies used
 - Balsamiq
     - This was used to create the wireframe.
